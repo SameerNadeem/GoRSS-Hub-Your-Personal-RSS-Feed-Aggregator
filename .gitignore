@@ -1,0 +1,5 @@
+.vscode/ 
+rssag
+.env
+thunder-tests/
+	vendor/github.com/google/uuid/util 2.go
